@@ -12,6 +12,7 @@ public class Product implements SuperEntity{
         this.description = description;
     }
 
+    //getters & setters
     public int getCode() {
         return code;
     }
